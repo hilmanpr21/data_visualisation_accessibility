@@ -1,0 +1,23 @@
+{
+  "title": "Movie Blockbuster Dataset",
+  "description": "Cleaned movie dataset for visualisation workshop. Data originally scraped from IMDb by Daniel Grijalva.",
+  "source": "https://github.com/danielgrijalva",
+  "created": "2025-10-07",
+  "columns": {
+    "name": "Movie title",
+    "rating": "Film content rating (e.g., R, PG, PG-13).",
+    "genre": "Main genre of the movie (e.g., Action, Drama, Comedy).",
+    "year": "Release year of the movie.",
+    "released": "Official release date in the format YYYY-MM-DD.",
+    "score": "IMDb user rating (on a scale of 0 to 10).",
+    "votes": "Number of IMDb user votes.",
+    "director": "Director of the movie.",
+    "writer": "Writer or screenplay author of the movie.",
+    "star": "Main actor or actress in the movie.",
+    "country": "Country of origin of the movie.",
+    "budget": "Budget of the movie in USD. Some entries may appear as 0 if data is unavailable.",
+    "gross": "Revenue or gross earnings of the movie in USD.",
+    "company": "Production company responsible for the film.",
+    "runtime": "Duration of the movie in minutes."
+    }
+}
