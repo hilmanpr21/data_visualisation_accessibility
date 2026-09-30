@@ -1,4 +1,4 @@
 # data_visualisation_accessibility
 Material for Data Visualisation Accessibility - Data Science Development Program 25/26
 
-Power point slide can be accessed [here](https://leeds365-my.sharepoint.com/:p:/g/personal/pjjb730_leeds_ac_uk/EQbf3CrAZMBAip_LcF4scB8BqWvbuuFDAMIZUVHRKaeO0g?e=BZsnw2)
+Power point slide can be accessed [here](https://leeds365-my.sharepoint.com/:p:/r/personal/pjjb730_leeds_ac_uk/Documents/05_DSDP_data_visualisation_presentation/Data_visualisation_accesibility.pptx?d=w2adcdf0664c040c08a9fcb705e2c701f&csf=1&web=1&e=LYk4HG)
